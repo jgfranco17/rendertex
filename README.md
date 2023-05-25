@@ -1,4 +1,4 @@
-<h1 align="center">Stockpyle: An Algorithmic Trading Bot</h1>
+<h1 align="center">RenderTex</h1>
 
 <div align="center">
 
