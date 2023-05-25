@@ -1,0 +1,4 @@
+matplotlib
+opencv-python
+opencv-contrib-python
+pdf2image
